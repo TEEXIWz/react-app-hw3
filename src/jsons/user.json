@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"mixkub",
+        "username":"mix",
+        "password":"1",
+        "img":"https://i.pinimg.com/564x/3d/9d/ed/3d9ded2ceb902b1c5294e6f564b61728.jpg",
+        "role":1
+    },
+    {
+        "id": 2,
+        "name":"noey",
+        "username":"milo",
+        "password":"12",
+        "img":"https://i.pinimg.com/564x/b0/2d/4c/b02d4c1a70a4aa3bb575d4f2e503e02b.jpg",
+        "role":0
+    },
+    {
+        "id": 3,
+        "name":"tester",
+        "username":"test",
+        "password":"123",
+        "img":"https://i.pinimg.com/564x/6e/17/23/6e17234aac711f5d2de3ec7ba56a8c4b.jpg",
+        "role":2
+    }
+]
