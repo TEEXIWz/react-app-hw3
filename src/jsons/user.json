@@ -4,7 +4,8 @@
         "name":"mixkub",
         "username":"mix",
         "password":"1",
-        "img":"https://i.pinimg.com/564x/3d/9d/ed/3d9ded2ceb902b1c5294e6f564b61728.jpg",
+        "img":"https://sm.ign.com/t/ign_in/screenshot/default/attack-on-titan-eren_duqn.1200.jpg",
+        "country":"ประเทศไทย",
         "role":1
     },
     {
@@ -13,14 +14,34 @@
         "username":"milo",
         "password":"12",
         "img":"https://i.pinimg.com/564x/b0/2d/4c/b02d4c1a70a4aa3bb575d4f2e503e02b.jpg",
+        "country":"ประเทศสวิตเซอร์แลนด์",
         "role":0
     },
     {
         "id": 3,
-        "name":"tester",
-        "username":"test",
+        "name":"nihonjaa",
+        "username":"nihon",
         "password":"123",
         "img":"https://i.pinimg.com/564x/6e/17/23/6e17234aac711f5d2de3ec7ba56a8c4b.jpg",
-        "role":2
+        "country":"ประเทศญี่ปุ่น",
+        "role":1
+    },
+    {
+        "id": 4,
+        "name":"nagi",
+        "username":"nagiga",
+        "password":"1",
+        "img":"https://i.pinimg.com/564x/13/17/5d/13175d5ea3e2a9645eca0b835abf5160.jpg",
+        "country":"ประเทศญี่ปุ่น",
+        "role":1
+    },
+    {
+        "id": 5,
+        "name":"win",
+        "username":"winner",
+        "password":"1",
+        "img":"https://i.pinimg.com/736x/b9/ff/34/b9ff341c0b0cd3a2d7db19eadbcc87c5.jpg",
+        "country":"ประเทศอินเดีย",
+        "role":1
     }
 ]
